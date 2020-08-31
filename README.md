@@ -2,10 +2,11 @@
 A basic C# program to evaluate two given binary inputs (IE `01`, `11`, etc.) for a chosen operation among the following: `AND`, `OR`, `XOR`.
 Code can be executed at [https://BinaryEvaluator.griffingoing.repl.run](https://BinaryEvaluator.griffingoing.repl.run)
 
-## Example output on valid inputs
+## Example output given valid inputs
 
+![example output with valid inputs](https://github.com/GriffinGoing/BinaryEvaluator/blob/master/withValidInput.png)
 
-# Example output on invalid inputs
+# Example output given invalid inputs
 
 
 ## Code (found in `main.cs`, included here for single-file presentation
