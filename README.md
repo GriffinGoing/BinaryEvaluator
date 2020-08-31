@@ -1,5 +1,5 @@
 # BinaryEvaluator
-A basic C# program to evaluate two given binary inputs (IE `01`, `11`, etc.) for a chosen operation among the following: `AND`, `OR`, `XOR`.
+A basic C# program to evaluate a chosen operation (`AND`, `OR`, or `XOR`) with two binary inputs (IE `01`, `11`, etc.).
 Code can be executed at [https://BinaryEvaluator.griffingoing.repl.run](https://BinaryEvaluator.griffingoing.repl.run)
 
 ## Example output given valid inputs
@@ -8,8 +8,11 @@ Code can be executed at [https://BinaryEvaluator.griffingoing.repl.run](https://
 
 # Example output given invalid inputs
 
+ 2 valid inputs are present to further execution.
 
-## Code (found in `main.cs`, included here for single-file presentation
+![example output with invalid inputs](https://github.com/GriffinGoing/BinaryEvaluator/blob/master/withInvalidInput.png)
+
+## Code (found in `main.cs`, included here for single-file presentation)
 ```
 using System;
 using System.Text.RegularExpressions;
