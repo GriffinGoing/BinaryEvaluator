@@ -1,5 +1,6 @@
 # BinaryEvaluator
 A basic C# program to evaluate two given binary inputs (IE `01`, `11`, etc.) for a chosen operation among the following: `AND`, `OR`, `XOR`.
+Code can be executed at [https://BinaryEvaluator.griffingoing.repl.run](https://BinaryEvaluator.griffingoing.repl.run)
 
 ## Example output on valid inputs
 
